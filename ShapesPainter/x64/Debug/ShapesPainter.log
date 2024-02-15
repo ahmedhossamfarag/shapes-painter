@@ -1,0 +1,83 @@
+﻿  Control.cpp
+C:\Users\a1b2c\source\repos\ShapesPainter\ShapesPainter\Control.cpp(5,28): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\a1b2c\source\repos\ShapesPainter\ShapesPainter\Control.cpp(5,25): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\a1b2c\source\repos\ShapesPainter\ShapesPainter\Control.cpp(29,28): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\a1b2c\source\repos\ShapesPainter\ShapesPainter\Control.cpp(29,25): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\a1b2c\source\repos\ShapesPainter\ShapesPainter\Control.cpp(53,28): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\a1b2c\source\repos\ShapesPainter\ShapesPainter\Control.cpp(53,25): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\a1b2c\source\repos\ShapesPainter\ShapesPainter\Control.cpp(86,37): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\a1b2c\source\repos\ShapesPainter\ShapesPainter\Control.cpp(86,34): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\a1b2c\source\repos\ShapesPainter\ShapesPainter\Control.cpp(95,40): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\a1b2c\source\repos\ShapesPainter\ShapesPainter\Control.cpp(95,37): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+  Model.cpp
+C:\Users\a1b2c\source\repos\ShapesPainter\ShapesPainter\Model.cpp(27,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\a1b2c\source\repos\ShapesPainter\ShapesPainter\Model.cpp(62,15): warning C4244: 'return': conversion from 'FLOAT' to 'int', possible loss of data
+C:\Users\a1b2c\source\repos\ShapesPainter\ShapesPainter\Model.cpp(67,15): warning C4244: 'return': conversion from 'FLOAT' to 'int', possible loss of data
+  ShapesPainter.cpp
+  UIWidgets.cpp
+  View.cpp
+C:\Users\a1b2c\source\repos\ShapesPainter\ShapesPainter\View.cpp(87,44): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\a1b2c\source\repos\ShapesPainter\ShapesPainter\View.cpp(87,41): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\a1b2c\source\repos\ShapesPainter\ShapesPainter\View.cpp(88,60): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\a1b2c\source\repos\ShapesPainter\ShapesPainter\View.cpp(88,44): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\a1b2c\source\repos\ShapesPainter\ShapesPainter\View.cpp(88,39): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\a1b2c\source\repos\ShapesPainter\ShapesPainter\View.cpp(88,36): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\a1b2c\source\repos\ShapesPainter\ShapesPainter\View.cpp(98,20): warning C4244: '=': conversion from 'FLOAT' to 'int', possible loss of data
+C:\Users\a1b2c\source\repos\ShapesPainter\ShapesPainter\View.cpp(99,20): warning C4244: '=': conversion from 'FLOAT' to 'int', possible loss of data
+C:\Users\a1b2c\source\repos\ShapesPainter\ShapesPainter\View.cpp(100,78): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\a1b2c\source\repos\ShapesPainter\ShapesPainter\View.cpp(100,57): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\a1b2c\source\repos\ShapesPainter\ShapesPainter\View.cpp(100,37): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\a1b2c\source\repos\ShapesPainter\ShapesPainter\View.cpp(100,30): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\a1b2c\source\repos\ShapesPainter\ShapesPainter\View.cpp(130,36): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\a1b2c\source\repos\ShapesPainter\ShapesPainter\View.cpp(130,33): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\a1b2c\source\repos\ShapesPainter\ShapesPainter\View.cpp(136,40): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\a1b2c\source\repos\ShapesPainter\ShapesPainter\View.cpp(136,33): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\a1b2c\source\repos\ShapesPainter\ShapesPainter\View.cpp(136,96): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\a1b2c\source\repos\ShapesPainter\ShapesPainter\View.cpp(136,75): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\a1b2c\source\repos\ShapesPainter\ShapesPainter\View.cpp(141,79): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\a1b2c\source\repos\ShapesPainter\ShapesPainter\View.cpp(141,58): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\a1b2c\source\repos\ShapesPainter\ShapesPainter\View.cpp(141,38): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\a1b2c\source\repos\ShapesPainter\ShapesPainter\View.cpp(141,31): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\a1b2c\source\repos\ShapesPainter\ShapesPainter\View.cpp(146,53): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\a1b2c\source\repos\ShapesPainter\ShapesPainter\View.cpp(146,33): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\a1b2c\source\repos\ShapesPainter\ShapesPainter\View.cpp(152,40): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\a1b2c\source\repos\ShapesPainter\ShapesPainter\View.cpp(152,33): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\a1b2c\source\repos\ShapesPainter\ShapesPainter\View.cpp(152,96): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\a1b2c\source\repos\ShapesPainter\ShapesPainter\View.cpp(152,75): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\a1b2c\source\repos\ShapesPainter\ShapesPainter\View.cpp(155,40): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\a1b2c\source\repos\ShapesPainter\ShapesPainter\View.cpp(155,33): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\a1b2c\source\repos\ShapesPainter\ShapesPainter\View.cpp(155,82): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\a1b2c\source\repos\ShapesPainter\ShapesPainter\View.cpp(155,75): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\a1b2c\source\repos\ShapesPainter\ShapesPainter\View.cpp(158,53): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\a1b2c\source\repos\ShapesPainter\ShapesPainter\View.cpp(158,46): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\a1b2c\source\repos\ShapesPainter\ShapesPainter\View.cpp(158,109): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\a1b2c\source\repos\ShapesPainter\ShapesPainter\View.cpp(158,88): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\a1b2c\source\repos\ShapesPainter\ShapesPainter\View.cpp(168,16): warning C4244: '=': conversion from 'FLOAT' to 'int', possible loss of data
+C:\Users\a1b2c\source\repos\ShapesPainter\ShapesPainter\View.cpp(169,16): warning C4244: '=': conversion from 'FLOAT' to 'int', possible loss of data
+C:\Users\a1b2c\source\repos\ShapesPainter\ShapesPainter\View.cpp(170,52): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\a1b2c\source\repos\ShapesPainter\ShapesPainter\View.cpp(170,36): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\a1b2c\source\repos\ShapesPainter\ShapesPainter\View.cpp(170,31): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\a1b2c\source\repos\ShapesPainter\ShapesPainter\View.cpp(170,28): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\a1b2c\source\repos\ShapesPainter\ShapesPainter\View.cpp(199,36): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\a1b2c\source\repos\ShapesPainter\ShapesPainter\View.cpp(199,33): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\a1b2c\source\repos\ShapesPainter\ShapesPainter\View.cpp(202,36): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\a1b2c\source\repos\ShapesPainter\ShapesPainter\View.cpp(202,29): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\a1b2c\source\repos\ShapesPainter\ShapesPainter\View.cpp(202,88): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\a1b2c\source\repos\ShapesPainter\ShapesPainter\View.cpp(202,81): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\a1b2c\source\repos\ShapesPainter\ShapesPainter\View.cpp(203,28): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\a1b2c\source\repos\ShapesPainter\ShapesPainter\View.cpp(209,16): warning C4244: '=': conversion from 'FLOAT' to 'int', possible loss of data
+C:\Users\a1b2c\source\repos\ShapesPainter\ShapesPainter\View.cpp(210,16): warning C4244: '=': conversion from 'FLOAT' to 'int', possible loss of data
+C:\Users\a1b2c\source\repos\ShapesPainter\ShapesPainter\View.cpp(211,50): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\a1b2c\source\repos\ShapesPainter\ShapesPainter\View.cpp(211,36): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\a1b2c\source\repos\ShapesPainter\ShapesPainter\View.cpp(211,31): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\a1b2c\source\repos\ShapesPainter\ShapesPainter\View.cpp(211,28): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\a1b2c\source\repos\ShapesPainter\ShapesPainter\View.cpp(303,32): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\a1b2c\source\repos\ShapesPainter\ShapesPainter\View.cpp(308,32): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\a1b2c\source\repos\ShapesPainter\ShapesPainter\View.cpp(314,32): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\a1b2c\source\repos\ShapesPainter\ShapesPainter\View.cpp(319,32): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\a1b2c\source\repos\ShapesPainter\ShapesPainter\View.cpp(322,32): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\a1b2c\source\repos\ShapesPainter\ShapesPainter\View.cpp(325,32): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\a1b2c\source\repos\ShapesPainter\ShapesPainter\View.cpp(294,13): warning C4101: 'en': unreferenced local variable
+C:\Users\a1b2c\source\repos\ShapesPainter\ShapesPainter\View.cpp(294,9): warning C4101: 'st': unreferenced local variable
+  Generating Code...
+  ShapesPainter.vcxproj -> C:\Users\a1b2c\source\repos\ShapesPainter\x64\Debug\ShapesPainter.exe
